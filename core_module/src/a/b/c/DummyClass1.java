@@ -8,5 +8,5 @@ package a.b.c;
  */
 public class DummyClass1 {
 
-    // clone2
+    // clone1
 }
