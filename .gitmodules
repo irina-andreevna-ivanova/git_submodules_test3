@@ -1,0 +1,6 @@
+[submodule "core_module/git_submodules_test3_sub1"]
+	path = core_module/git_submodules_test3_sub1
+	url = https://github.com/irina-andreevna-ivanova/git_submodules_test3_sub1.git
+[submodule "git_submodules_test3_sub2"]
+	path = git_submodules_test3_sub2
+	url = https://github.com/irina-andreevna-ivanova/git_submodules_test3_sub2.git
