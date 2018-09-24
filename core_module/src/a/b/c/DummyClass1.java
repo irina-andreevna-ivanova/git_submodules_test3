@@ -9,5 +9,7 @@ package a.b.c;
 public class DummyClass1 {
 
     // clone1
-    // clone22
+    // clone2
+    // clone3
+
 }
